@@ -1,0 +1,16 @@
+Package: Mestimate
+Type: Package
+Title: Estimate M of fish using boosting trees
+Version: 0.1.0
+Author: Chanjuan Liu
+Maintainer: Chanjuan Liu <cjliu2018@163.com>
+Description: This package is used for estimating M of fish based on life history parameters, using the tree-based ensemble methods.
+    Use four spaces when indenting paragraphs within the Description.
+Imports: caret, gbm, ggplot2, reshape2, cowplot
+License: GPL (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2019-08-02 04:42:28 UTC; LCJ
+Depends: R (>= 3.5.0)
+Built: R 3.6.0; ; 2019-08-02 04:42:37 UTC; windows
